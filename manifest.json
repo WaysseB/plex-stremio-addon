@@ -1,0 +1,16 @@
+{
+  "id": "org.example.plexlist",
+  "version": "1.0.0",
+  "name": "Ma Liste Plex (IMDb)",
+  "description": "Catalogue Stremio généré depuis ma bibliothèque Plex",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "plexlist",
+      "name": "Ma Liste Plex"
+    }
+  ],
+  "idPrefixes": ["tt"]
+}
