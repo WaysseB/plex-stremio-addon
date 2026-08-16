@@ -415,13 +415,6 @@
     },
     {
       "type": "movie",
-      "id": "tt0045152",
-      "name": "Chantons sous la pluie",
-      "year": 1952,
-      "poster": "https://image.tmdb.org/t/p/w342/w03EiJVHP8Un77boQeE7hg9DVdU.jpg"
-    },
-    {
-      "type": "movie",
       "id": "tt0085333",
       "name": "Christine",
       "year": 1983,
@@ -937,27 +930,6 @@
       "name": "Happiness",
       "year": 1998,
       "poster": "https://image.tmdb.org/t/p/w342/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg"
-    },
-    {
-      "type": "movie",
-      "id": "tt0417741",
-      "name": "Harry Potter et le Prince de sang-mêlé",
-      "year": 2009,
-      "poster": "https://image.tmdb.org/t/p/w342/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg"
-    },
-    {
-      "type": "movie",
-      "id": "tt0926084",
-      "name": "Harry Potter et les Reliques de la mort - 1ère partie",
-      "year": 2010,
-      "poster": "https://image.tmdb.org/t/p/w342/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg"
-    },
-    {
-      "type": "movie",
-      "id": "tt1201607",
-      "name": "Harry Potter et les Reliques de la mort - 2ème partie",
-      "year": 2011,
-      "poster": "https://image.tmdb.org/t/p/w342/c54HpQmuwXjHq2C9wmoACjxoom3.jpg"
     },
     {
       "type": "movie",
@@ -1563,13 +1535,6 @@
     },
     {
       "type": "movie",
-      "id": "tt0110357",
-      "name": "Lion",
-      "year": 2016,
-      "poster": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-    },
-    {
-      "type": "movie",
       "id": "tt0358569",
       "name": "Live Forever",
       "year": 2003,
@@ -1850,13 +1815,6 @@
     },
     {
       "type": "movie",
-      "id": "tt5822536",
-      "name": "Paddington au Pérou",
-      "year": 2024,
-      "poster": "https://image.tmdb.org/t/p/w342/1ffZAucqfvQu36x1C49XfOdjuOG.jpg"
-    },
-    {
-      "type": "movie",
       "id": "tt0107529",
       "name": "Panic sur Florida Beach",
       "year": 1993,
@@ -2011,13 +1969,6 @@
     },
     {
       "type": "movie",
-      "id": "tt2397535",
-      "name": "Prédestination",
-      "year": 2014,
-      "poster": "https://image.tmdb.org/t/p/w342/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg"
-    },
-    {
-      "type": "movie",
       "id": "tt22041854",
       "name": "Priscilla",
       "year": 2023,
@@ -2141,13 +2092,6 @@
       "name": "The Rover",
       "year": 2014,
       "poster": "https://image.tmdb.org/t/p/w342/734OOkr69mt8lyPk8iw3TwgQ90R.jpg"
-    },
-    {
-      "type": "movie",
-      "id": "tt0093894",
-      "name": "Running Man",
-      "year": 1987,
-      "poster": "https://image.tmdb.org/t/p/w342/GTAUOhO4BN0peJVvxGEQydJvUO.jpg"
     },
     {
       "type": "movie",
